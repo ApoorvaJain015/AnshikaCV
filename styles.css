@@ -1,0 +1,140 @@
+body
+{
+    color: #40514E;
+    text-align: center;
+    margin: 0;
+    background-color: #FEFCF3;
+    font-family: 'Lora', serif;
+}
+
+h1
+{
+    font-family: 'Pacifico', cursive;
+    color: #DBA39A;
+}
+
+h2
+{
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #DBA39A;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: #E48586;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+hr{
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.FirstPage
+{
+    background-color: #F0DBDB;
+    text-align: center;
+    margin: 0;
+    padding-top: 200px;
+    position: relative;
+    padding-bottom: 200px;
+    
+}
+
+.pic{
+    width: 25%;
+    border-radius: 43%;
+}
+
+.picture
+{
+    width: 50%;
+}
+
+.About
+{
+    width: 40%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.Skills
+{
+    width: 40%;
+    margin: 100px auto;
+    text-align: left;
+    
+}
+
+.WC
+{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.Writing
+{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.Contact
+{
+    margin: 100px auto;
+}
+.Outro
+{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.Bottom
+{
+    background-color: #DBA39A;
+    padding: 50px 0 20px;
+    margin-top: 70px;
+}
+.footer
+{
+    color: #D3756B;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright
+{
+    color: white;
+    font-size: 10px;
+}
+.footer:hover
+{
+    color: white;
+}
+.btn {
+    background: #F5EBE0;
+    background-image: -webkit-linear-gradient(top, #F5EBE0, #DBA39A);
+    background-image: -moz-linear-gradient(top, #F5EBE0, #DBA39A);
+    background-image: -ms-linear-gradient(top, #F5EBE0, #DBA39A);
+    background-image: -o-linear-gradient(top, #F5EBE0, #DBA39A);
+    background-image: linear-gradient(to bottom, #F5EBE0, #DBA39A);
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    border: solid #F5EBE0 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FF9B9B;
+    text-decoration: none;
+  }
